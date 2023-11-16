@@ -1,0 +1,199 @@
+
+.first{
+width: 1920px;
+height: 700px;
+background: #EEEFF1;
+
+}
+
+
+.screen{
+   display:inline-flex;
+   gap: 42px;
+   align-items: flex-start;
+   
+
+
+}
+
+.home{
+    color: #34547a;
+    font-size: 50px;
+    font-style: normal;
+    line-height: 164%; 
+    font-family:  Roboto;
+    font-weight: 400;
+   
+
+}
+.menu{
+    color: #000;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164%;
+    font-family:  Roboto;
+    font-weight: 400;
+   
+}
+.text{
+    
+    color: #000;
+    font-family: Roboto;
+    font-size:35px;
+    font-style: normal;
+    line-height: 150%;
+    
+    
+}
+.batt{
+   
+    background: #34547a;
+    width: 225px;
+    height: 65px;
+    
+    
+
+
+}
+.buy{
+    
+    text-align: center;
+    color: #fff;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size:22px ;
+    line-height: 293%;
+    
+
+}
+.text{
+    color: #000;
+    font-family: Roboto;
+    font-size: 35px;
+    font-style: normal;
+    line-height: 150%;
+    
+}
+
+.about{
+    
+   
+    height: 147px;
+    padding: 150px;
+    margin: 40px ;
+    
+
+}
+.aboutp{
+    font-family: Roboto;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+
+    
+    
+
+}
+#aboutt{
+    color: gray;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164.063%;
+
+    }
+
+    .num{
+        display: flex;
+        background-color: #34547a;
+        width: 1920px;
+        height: 250px;
+        justify-content:center;
+        align-items: center;
+   
+    }
+    .bloc1{
+        display: flex;
+        justify-content:center;
+        margin: 50px;
+
+        
+
+    }
+    .num2{ 
+        color: #fff;
+        width: 71px;
+        height: 105px;
+       
+       
+       
+
+    }
+    h3.num3{
+        
+        font-family: Roboto;
+        font-size: 21px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+    }
+    p.num4{
+        
+     font-family: Roboto;
+     font-size: 16px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 164.063%;
+
+    }
+.video{
+    
+    padding: 150px;
+    margin: 40px ;
+    
+}
+.How{ font-family: Roboto;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+
+}
+#video{
+    color: gray;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164.063%;
+}
+.ifrem{
+    display: flex;
+    justify-content: center;
+}
+.fot{
+    width: 1920px;
+    height: 151px;
+    background: #34547a;
+}
+#tof{
+    color:#fff ;
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+    
+    
+
+
+
